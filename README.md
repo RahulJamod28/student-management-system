@@ -36,7 +36,7 @@ It’s perfect for learning Python **GUI programming** and **databases** while k
 6. Friendly interface with buttons and input boxes
    
 GUI:-
-how cool it is ....
+How Cool it is ....
 
 
 <img width="757" height="490" alt="image" src="https://github.com/user-attachments/assets/03639695-0bf3-43cd-a8fb-f0f12d6796cc" />
