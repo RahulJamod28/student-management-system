@@ -8,7 +8,7 @@ A fun and easy-to-use **Python desktop app** to manage student records using **T
 
 This application helps you to:
 
-- Add new student records ✅  
+- Add New student records ✅  
 - Update existing records ✏️  
 - Delete students ❌  
 - Search for students 🔍  
