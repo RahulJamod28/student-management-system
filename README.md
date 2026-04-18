@@ -20,7 +20,7 @@ It’s perfect for learning Python **GUI programming** and **databases** while k
 
 ## 🛠️ Technologies Used
 
-- **Python 3.x** – The main programming language  
+- **Python 3.x** – The main programming language
 - **Tkinter / ttkbootstrap** – For building a beautiful GUI  
 - **SQLite3** – For storing all the student data  
 
